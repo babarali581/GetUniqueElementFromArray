@@ -1,0 +1,35 @@
+{
+  "name": "getuniquevaluesfromtwoarrays",
+  "version": "1.0.0",
+  "description": "It accespts two arrays and in response returns  unique values from it",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/babarali581/GetUniqueElementFromArray.git"
+  },
+  "keywords": [
+    "Javascript",
+    "getUnique",
+    "uniquevalues",
+    "samevalues",
+    "similar",
+    "values",
+    "matchedValues",
+    "deeptestUniquevalues",
+    "unique",
+    "arraysearch",
+    "arrays"
+  ],
+  "author": "Syed Babar Ali",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/babarali581/GetUniqueElementFromArray/issues"
+  },
+  "homepage": "https://github.com/babarali581/GetUniqueElementFromArray#readme",
+  "dependencies": {
+    "deepsorting": "^1.0.8"
+  }
+}
