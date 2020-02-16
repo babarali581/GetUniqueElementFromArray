@@ -1,5 +1,5 @@
 {
-  "name": "getuniquevaluesfromtwoarrays",
+  "name": "unique_values_from_two_arrays",
   "version": "1.0.0",
   "description": "It accespts two arrays and in response returns  unique values from it",
   "main": "index.js",
