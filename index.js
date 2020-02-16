@@ -1,6 +1,6 @@
 const deepsorting = require("deepsorting");
 
-function getUniqueValuesFromTwoArrays(arr1, arr2) {
+function unique_values_from_two_arrays(arr1, arr2) {
  
 if(!Array.isArray(arr1) || !Array.isArray(arr2))  throw Error("Provided first two argument must be an array")
   //get unique value from both array
@@ -40,9 +40,5 @@ if(!Array.isArray(arr1) || !Array.isArray(arr2))  throw Error("Provided first tw
 }
 }
 
-let x = ['a'  , 'c' , {x:"x" , y : "z"} , ['g' ,'h']]
-let y = ['a' , 'b' , {x:"x" , y : "y"} , ['g' ,'h']]
-let bb = getUniqueValuesFromTwoArrays(x,y)
-// let bb = getUniqueValuesFromTwoArrays(['a' , 'b' , 'c'],['b' , 'c' , 'd'])
-console.log('cc: ', bb);
+
 module.exports = getUniqueValuesFromTwoArrays;
