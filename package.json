@@ -1,6 +1,6 @@
 {
   "name": "unique_values_from_two_arrays",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "It accespts two arrays and in response returns  unique values from it",
   "main": "index.js",
   "scripts": {
