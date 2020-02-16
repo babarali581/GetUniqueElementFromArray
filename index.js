@@ -41,4 +41,4 @@ if(!Array.isArray(arr1) || !Array.isArray(arr2))  throw Error("Provided first tw
 }
 
 
-module.exports = getUniqueValuesFromTwoArrays;
+module.exports = unique_values_from_two_arrays;
