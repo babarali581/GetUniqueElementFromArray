@@ -31,9 +31,11 @@ let y = ['b' , 'c' , 'd']
 
 Then...
 `Now lets say we have arrays with deeply nested arrays and objects in it`
-
+```
 let x = ['a'  , 'c' , {x:"x" , y : "z"} , ['g' ,'h']]
 let y = ['a' , 'b' , {x:"x" , y : "y"} , ['g' ,'h']]
 getUniqueValuesFromTwoArrays(x,y)
 
 //output [ { x: 'x', y: 'z' }, 'c', { x: 'x', y: 'y' }, 'b' ]
+
+```
